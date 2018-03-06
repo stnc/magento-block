@@ -1,11 +1,11 @@
 
 
-cms page 
+##  cms page add 
 
 {{block type="mageticaretprolist/promolist" name="mageticaret_block" template="stnc/recentproducts.phtml"}}
 
 
-##IMPORTANT 
+## IMPORTANT 
 
 You need to give the permission for your block
 
